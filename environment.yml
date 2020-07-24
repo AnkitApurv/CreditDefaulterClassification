@@ -1,0 +1,14 @@
+name: internship
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - seaborn
+  - scipy
+  - statsmodels
+  - scikit-learn
+  - joblib
+  - jupyter
+  - imbalanced-learn
