@@ -1,8 +1,9 @@
-name: internship
+name: CreditDefaulterClassification
 channels:
   - defaults
   - conda-forge
 dependencies:
+  - xlrdconda install 
   - numpy
   - pandas
   - seaborn
@@ -10,5 +11,6 @@ dependencies:
   - statsmodels
   - scikit-learn
   - joblib
-  - jupyter
+  - ipykernel
   - imbalanced-learn
+  - tensorflow-gpu
