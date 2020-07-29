@@ -11,6 +11,11 @@ Project Type: Classification
 ### Current Status:
 Project completed, DNNClassifier using Tensorflow is part of the future scope.
 
+### Scope of improvement:
+1. Better feature engineering (Possibilities with Pay_Delay concept?).
+2. Outlier removal and then feature normalization (so that the vast majority of data points aren't bunched-up).
+3. Use of deep learning alogrithm.
+
 ### Disclaimer:
 The dataset and tools used in the project are publicly available.
 #### Dataset: 
