@@ -1,5 +1,5 @@
 # CreditDefaulterClassification
-Internship
+Internship: Completed
 
 Project Type: Classification
 
