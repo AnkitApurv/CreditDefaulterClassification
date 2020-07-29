@@ -15,8 +15,11 @@ Project completed, DNNClassifier using Tensorflow is part of the future scope.
 The dataset and tools used in the project are publicly available.
 #### Dataset: 
 https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset
+
 https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
 #### Tools:
 Anaconda (Python 3.x) for envinment and toolchain
+
 Jupyter Notebook for development environment
+
 Scikit-learn and other libraries
