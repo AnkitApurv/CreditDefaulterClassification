@@ -3,7 +3,7 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - xlrdconda install 
+  - xlrd
   - numpy
   - pandas
   - seaborn
@@ -14,3 +14,4 @@ dependencies:
   - ipykernel
   - imbalanced-learn
   - tensorflow-gpu
+  - jupyterlab
